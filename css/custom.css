@@ -1,0 +1,9 @@
+.hr-a {
+    border-top: 5px solid white;
+    width: 100%;
+}
+
+.border-top-a {
+    border-top: 5px solid white;
+    padding-top: 15px;
+}
